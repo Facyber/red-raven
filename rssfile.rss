@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="css/rss.css"?>
+<rss version="2.0">
+<channel>
+		<item>
+			<title>Poems</title>
+			<link>http://sajtovistudenata.ict.edu.rs/79_15/redraven/pages/poems.html</link>
+			<description>Read latest uploaded Poe's poems</description>
+		</item>
+		<item>
+			<title>Tales</title>
+			<link>http://sajtovistudenata.ict.edu.rs/79_15/redraven/pages/tales.html</link>
+			<description>Read latest uploaded Poe's Poe's tales</description>
+		</item>
+</channel>
+</rss>

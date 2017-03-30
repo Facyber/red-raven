@@ -1,0 +1,16 @@
+urlset {
+  border: 1px solid black;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+
+urlset,url,loc,changefreq,priority{
+  display:block;
+}
+
+url {
+  list-style-type:circle;
+  background-color: #C8252B;
+  padding: 10px;
+}

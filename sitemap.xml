@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/79_15/redraven/index.html</loc>
+  <lastmod>2015-12-03</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1</priority>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/79_15/redraven/pages/biography.html</loc>
+  <lastmod>2015-12-03</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/79_15/redraven/pages/poems.html</loc>
+  <lastmod>2015-12-03</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/79_15/redraven/pages/tales.html</loc>
+  <lastmod>2015-12-03</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/79_15/redraven/pages/about.html</loc>
+  <lastmod>2015-12-03</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/79_15/redraven/quick/gallery.html</loc>
+  <lastmod>2015-12-03</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/79_15/redraven/quick/museum.html</loc>
+  <lastmod>2015-12-03</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/79_15/redraven/quick/contact.html</loc>
+  <lastmod>2015-12-03</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+</urlset>
